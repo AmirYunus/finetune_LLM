@@ -84,9 +84,7 @@ section {
 
 ---
 
-# Recall
-
-TODO: Insert Image
+![](./images/00.png)
 
 ---
 
