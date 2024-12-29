@@ -3,6 +3,8 @@ A comprehensive guide to understanding and implementing LLM finetuning, covering
 
 Refer to the [wiki](https://github.com/AmirYunus/finetune_LLM/wiki) for more details.
 
+For code implementation, refer to [this Jupyter Notebook](lab.ipynb).
+
 ## Prerequisites and Virtual Environment
 ```bash
 sudo apt update
